@@ -1,1 +1,1 @@
-# Calculator program usimg python
+# Calculator program using python
